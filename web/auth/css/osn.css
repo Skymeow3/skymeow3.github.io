@@ -1,0 +1,42 @@
+.headers {
+	width: 100%;
+	height: 6%;
+	background-color: #0a061c;
+	text-align: center;
+}
+
+.col-md-3 {
+	margin-top: 13px;
+}
+
+.menue {
+	margin-top: 5%;
+	text-align: center;
+	font-size: 24px;
+	font-weight: 550;
+}
+
+.payment input {
+	background-color: transparent;
+	outline: none;
+	padding: 5 10 5 10px;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	border-radius: 10px; 
+}
+
+.payment {
+	text-align: center;
+	margin-top: 3%;
+}
+
+.payment button {
+	background-color: transparent;
+	outline: none;
+	padding: 5 10 5 10px;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	border-radius: 10px; 
+}
